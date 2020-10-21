@@ -1,5 +1,13 @@
 import React from "react"
+import Layout from "../components/Layout"
+import VideoPlayer from "../components/VideoPlayer"
 
-export default function Home() {
-  return <div>Hello world!</div>
+const IndexPage = () => {
+  return (
+    <Layout>
+      <VideoPlayer />
+    </Layout>
+  )
 }
+
+export default IndexPage;
