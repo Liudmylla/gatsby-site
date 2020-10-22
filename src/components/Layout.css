@@ -9,3 +9,21 @@
       margin-left: 5.5%;
     }
 }
+p {
+   text-align: center;
+   font-family: 'Courier New', Courier, monospace;
+   
+   font-size: 22px;
+   
+
+}
+h1 {
+   font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+   font-size: large;
+}
+a.button.is-primary {
+   font-family: 'Courier New', Courier, monospace;
+   font-size: 22px;
+   margin-bottom: 20px;
+   background: #666666;
+}
