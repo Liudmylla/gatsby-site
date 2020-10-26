@@ -9,21 +9,37 @@
       margin-left: 5.5%;
     }
 }
-p {
+h3 {
    text-align: center;
    font-family: 'Courier New', Courier, monospace;
-   
+   text-decoration: none;
    font-size: 22px;
-   
+   color:rgb(243, 247, 250);;
 
 }
-h1 {
+
+h3:hover {
+   color:#00d1b2;
+   
+}
+h2 {
+    color:#00d1b2;
+    font-size: 28px;
+}
+h1.title {
+   padding-top: 20px;
    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
    font-size: large;
+   color: rgb(243, 247, 250);
 }
-a.button.is-primary {
+h1:hover {
+   color:#00d1b2;
+   
+}
+div.button.is-primary {
    font-family: 'Courier New', Courier, monospace;
    font-size: 22px;
    margin-bottom: 20px;
    background: #666666;
+   text-align: center;
 }

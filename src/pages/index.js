@@ -5,7 +5,9 @@ import VideoPlayer from "../components/VideoPlayer"
 const IndexPage = () => {
   return (
     <Layout>
+      
       <VideoPlayer />
+      
     </Layout>
   )
 }
